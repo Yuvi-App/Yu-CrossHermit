@@ -15,5 +15,5 @@ Personally had this game in my collection for over 18 years now. As its 20th Ann
 - Enable Debug Mode (if possible)
 
 **Completed Work**
-No CD Check 
+-No CD Check 
 
