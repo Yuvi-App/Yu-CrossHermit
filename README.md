@@ -11,5 +11,6 @@ Personally had this game in my collection for over 18 years now. As its 20th Ann
 - Ensure the game runs smoothly on Win10 and new hardware
 - Translate the important stuff to enjoy the game
 - Everything else is extra 
+- Enable Debug Mode (if possible)
 
 **Completed Work**
