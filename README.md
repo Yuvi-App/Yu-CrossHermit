@@ -10,9 +10,10 @@ Personally had this game in my collection for over 18 years now. As its 20th Ann
 - No CD Check the exe (game uses securom)
 - Fixes Resolution and Force Fullscreen mode
 - Ensure the game runs smoothly on Win10 and new hardware
+- Scale up Textures
 - Translate the important stuff to enjoy the game
-- Everything else is extra 
 - Enable Debug Mode (if possible)
+- Everything else is extra 
 
 **Completed Work**
 - No CD Check 
