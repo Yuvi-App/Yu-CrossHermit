@@ -16,4 +16,7 @@ Personally had this game in my collection for over 18 years now. As its 20th Ann
 
 **Completed Work**
 - No CD Check 
+- Window Mode and all 4:3 Resolutions (unlikely ill be able to patch in 16:9)
 
+
+![Windows Mode Working](https://s3.yuvi.app/GamePreservation/CrossHermit/github-files/chwindows.png)
