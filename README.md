@@ -12,12 +12,13 @@ Personally had this game in my collection for over 18 years now. As its 20th Ann
 - Ensure the game runs smoothly on Win10 and new hardware
 - Scale up Textures
 - Translate the important stuff to enjoy the game
+- Reimport Assest for translation purposes
 - Enable Debug Mode (if possible)
 - Everything else is extra 
 
 **Completed Work**
 - No CD Check 
 - Window Mode and all 4:3 Resolutions (unlikely ill be able to patch in 16:9)
-
+- All Assets are Extracted
 
 ![Windows Mode Working](https://s3.yuvi.app/GamePreservation/CrossHermit/github-files/chwindows.png)
