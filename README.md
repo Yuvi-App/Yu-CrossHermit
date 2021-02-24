@@ -23,5 +23,6 @@ Acquired the originial Japanese version thanks to @jet082, Ill test my changes o
 - Window Mode and all 4:3 Resolutions (unlikely ill be able to patch in 16:9)
 - Working great on Win10 now
 - All Assets are Extracted
+- Script is extracted, Test injections prove the game font will be fine, just need to locate the pointer tables, the script files can be extended, so finding free space is not an issue.
 
 ![Windows Mode Working](https://s3.yuvi.app/GamePreservation/CrossHermit/github-files/chwindows.png)
