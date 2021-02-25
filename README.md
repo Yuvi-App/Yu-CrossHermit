@@ -13,7 +13,7 @@ Acquired the originial Japanese version thanks to @jet082, Ill test my changes o
 - Fixes Resolution and Force Fullscreen mode
 - Ensure the game runs smoothly on Win10 and new hardware
 - Scale up Textures 
-- Translate the important stuff to enjoy the game
+- Translate the important stuff to enjoy the game (This has turned into a near full translation project)
 - Reimport modified Assest for translation purposes (this game uses alot of image text)
 - Enable Debug Mode (if possible)
 - Everything else is extra 
@@ -24,5 +24,10 @@ Acquired the originial Japanese version thanks to @jet082, Ill test my changes o
 - Working great on Win10 now
 - All Assets are Extracted
 - Script is extracted, Test injections prove the game font will be fine, just need to locate the pointer tables, the script files can be extended, so finding free space is not an issue.
+
+
+**Translation Status**
+Game uses a scipt file for each battle, and each menu there is, which there is 54 total for battles and menu's. Below you will see those listed out based off there name and there status of translation work done. 
+
 
 ![Windows Mode Working](https://s3.yuvi.app/GamePreservation/CrossHermit/github-files/chwindows.png)
