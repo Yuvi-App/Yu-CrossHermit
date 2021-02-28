@@ -32,7 +32,7 @@ Going forward ill be using the Japanese version for all things, as it will be mu
 
 
 **Translation Status**
--Refer to the Discord for Status updates
+- Refer to the Discord for Status updates
 
 
 If you are interested I've also started to form a community around the game in Discord
