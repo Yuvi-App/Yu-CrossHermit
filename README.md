@@ -10,7 +10,6 @@ Personally had this game in my collection for over 18 years now. As its 20th Ann
 Game uses a scipt file for each battle, and each menu there is, which there is 54 total for battles and menu's. Below you will see those listed out based off there name and there status of translation work done. Game playfields also uses a bmp image set to the backlayer of the game, so those are easy to upscale and implement. 
 
 Acquired the originial Japanese version thanks to @jet082, Ill test my changes on this version to ensure it still works great, then notate any changes between the two games. 
-
 Going forward ill be using the Japanese version for all things, as it will be much easier to acquire this version of the game. There are no changes from what i see between the actually games, besides text and font changes.
 
 **The Goals**
@@ -24,6 +23,7 @@ Going forward ill be using the Japanese version for all things, as it will be mu
 - Everything else is extra 
 
 **Completed Work**
+- First version of Text Insertion Tools are done.
 - No CD Check 
 - Window Mode and all 4:3 Resolutions (unlikely ill be able to patch in 16:9)
 - Working great on Win10 now
@@ -32,8 +32,12 @@ Going forward ill be using the Japanese version for all things, as it will be mu
 
 
 **Translation Status**
+Refer to the Discord for Status updates
 
+
+If you are interested I've also started to form a community around the game in Discord
+https://discord.gg/kyqDmkWABN
 
 ![TranslationProgress](https://s3.yuvi.app/GamePreservation/CrossHermit/github-files/chtranslation1.png)
-![Windows Mode Working](https://s3.yuvi.app/GamePreservation/CrossHermit/github-files/chwindows.png)
+![TranslationProgress](https://s3.yuvi.app/GamePreservation/CrossHermit/github-files/chtranslation2.png)
 
