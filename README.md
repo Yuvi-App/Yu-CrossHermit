@@ -28,7 +28,8 @@ Going forward ill be using the Japanese version for all things, as it will be mu
 - Window Mode and all 4:3 Resolutions (unlikely ill be able to patch in 16:9)
 - Working great on Win10 now
 - All Assets are Extracted
-- Script is extracted, Test injections prove the game font will be fine, just need to locate the pointer tables, the script files can be extended, so finding free space is not an issue.
+- Image Extraction and Insertion is completed and working!
+- Script is extracted, Test injections prove the game font will be fine. Game is starting translation phase, with the insertion tools I've created.
 
 
 **Translation Status**
