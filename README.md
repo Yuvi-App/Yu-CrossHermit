@@ -33,7 +33,7 @@ Going forward ill be using the Japanese version for all things, as it will be mu
 
 
 **Translation Status**
-- Soon
+- Please follow my twitter for updates at this time.
 
 
 ![TranslationProgress](https://s3.yuvi.app/GamePreservation/CrossHermit/github-files/chtranslation1.png)
